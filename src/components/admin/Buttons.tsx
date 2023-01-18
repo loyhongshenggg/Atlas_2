@@ -9,7 +9,7 @@ const Buttons = () => {
       </Button>
 
       <Button>
-        <Link href="/admin/users/upload-single-user">Create a user</Link>
+        <Link href="/admin/users/create-single">Create a user</Link>
       </Button>
     </div>
   )
